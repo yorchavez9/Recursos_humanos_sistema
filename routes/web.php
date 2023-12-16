@@ -22,6 +22,8 @@ use App\Http\Controllers\TrainersController;
 use App\Http\Controllers\TrainingTypeController;
 use App\Http\Controllers\SalesController;
 use App\Http\Controllers\PersonalInformationController;
+use Illuminate\Support\Facades\Request;
+use Illuminate\Support\Facades\Auth;
 
 
 /*
